@@ -6,6 +6,6 @@
 !*.vhd
 !*.bit
 !*.wcfg
-
+!*.ucf
 # ...even if they are in subdirectories
 !*/
